@@ -669,3 +669,6 @@ If you run into some "Unable to fetch" errors while trying to install VLC, try t
 	sudo apt-get update
 	sudo apt-get upgrade
 	sudo apt-get install vlc-nox vlc-data
+	
+### How do I download the Zip of the Samples directory from GitHub
+If you want to download the samples files a .Zip file see (http://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo) for assistance. 
